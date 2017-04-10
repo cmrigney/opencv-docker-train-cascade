@@ -13,3 +13,6 @@ Negatives should be in a sub-directory `processed/negatives` before building.
 ## Run
 
 `docker run --rm -v /c/<path_to_root_on_host>/dockeroutput:/hostoutput namespace/opencv24trainer`
+
+### Notes
+If you have spaces in your sample file names. Run `node host-name-fix.js` to remove them. (That assumes you have node installed.)
