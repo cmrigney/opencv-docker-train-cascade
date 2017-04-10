@@ -12,6 +12,8 @@ Negatives should be in a sub-directory `processed/negatives` before building.
 
 ## Run
 
+Run this command in PowerShell.
+
 `docker run --rm -v /c/<path_to_root_on_host>/dockeroutput:/hostoutput namespace/opencv24trainer`
 
 ### Notes
