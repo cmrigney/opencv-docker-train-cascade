@@ -1,0 +1,1 @@
+Place positive samples in `positives` sub-directory and negatives in `negatives` sub-directory before building.

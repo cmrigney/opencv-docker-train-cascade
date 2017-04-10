@@ -1,2 +1,4 @@
-processed/
-dockeroutput/*
+processed/negatives
+processed/positives
+processed/positives-manip
+dockeroutput/cascade.xml
